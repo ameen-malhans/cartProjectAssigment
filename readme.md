@@ -27,7 +27,7 @@ This is a project which produces a REST API (Spring-Boot/HTML,CSS,JavaScript/Boo
 
    Description : This MVC webservice provides servers on the main Page. </br>
    
-   (https://raw.githubusercontent.com/ameen-malhans/cartassignment/main/src/main/resources/static/images/getAllServers.png)
+   ![Alt text] (https://raw.githubusercontent.com/ameen-malhans/cartassignment/main/src/main/resources/static/images/getAllServers.png)
              
 	
 ### 2) Client selects the desired server and submit the request get the view for adding quantity  : 
@@ -37,13 +37,13 @@ This is a project which produces a REST API (Spring-Boot/HTML,CSS,JavaScript/Boo
 
    Description : This MVC webservice provides selected servers in the view.</br>
    
-   (https://raw.githubusercontent.com/ameen-malhans/cartassignment/main/src/main/resources/static/images/selectedServers.png)
+   ![Alt text] (https://raw.githubusercontent.com/ameen-malhans/cartassignment/main/src/main/resources/static/images/selectedServers.png)
    
 ### 3) Client submit the request for Total Amount:
 
 Client will get the the Total Amount right above the page.</br>
 
-   (https://raw.githubusercontent.com/ameen-malhans/cartassignment/main/src/main/resources/static/images/totalAmount.png)
+   ![Alt text] (https://raw.githubusercontent.com/ameen-malhans/cartassignment/main/src/main/resources/static/images/totalAmount.png)
 
 ### 3) Test case:
 
